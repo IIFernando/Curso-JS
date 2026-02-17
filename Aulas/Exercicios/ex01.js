@@ -4,6 +4,7 @@ const peso = 109;
 const altura = 1.85;
 const idade = 36;
 
-let imc = peso / (altura * altura);
+let imc = peso / altura ** 2;
 
-console.log(nome, sobrenome, 'tem', idade, 'anos e pesa', peso, 'tem de altura', altura, 'e seu IMC é de', imc)
+// print utilizando tamplete strings
+console.log(`Meu nome é ${nome} ${sobrenome} e tenho ${idade} anos, tenho ${altura} de altura e ${peso}kg. Meu IMC é de ${imc}`)
