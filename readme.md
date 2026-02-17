@@ -5,7 +5,7 @@ Link - https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-ava
 Tópidos aprendidos:
 
 - JavaScript Básico
-    Variaveis
+    - Variaveis
     Elementos do navegador(alert, confirm, prompt)
     Tipos primitivos
     Objeto Math
