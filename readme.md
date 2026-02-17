@@ -6,10 +6,10 @@ Tópidos aprendidos:
 
 - JavaScript Básico
     - Variaveis
-    Elementos do navegador(alert, confirm, prompt)
-    Tipos primitivos
-    Objeto Math
-    Strings
-    Number
-    Operadores
-    Template Strings
+    - Elementos do navegador(alert, confirm, prompt)
+    - Tipos primitivos
+    - Objeto Math
+    - Strings
+    - Number
+    - Operadores
+    - Template Strings
