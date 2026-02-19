@@ -13,3 +13,6 @@ Tópidos aprendidos:
     - Number
     - Operadores
     - Template Strings
+    - Arrays
+    - Function
+    - Objetos e métodos
