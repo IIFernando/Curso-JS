@@ -1,5 +1,6 @@
 // Varialvel criada com let, pode ser declarada sem valor.
-let nome = 'Fernando';
+let nome = 'Fernando'; // let tem escopo de bloco.
+var nome2 = 'Fernando'; // var somente tem escopo de função.
 
 /* 
 Variavel constante, não pode ser iniciada sem valor. Tambem é possivel reatribuir 
